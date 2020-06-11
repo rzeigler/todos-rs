@@ -1,0 +1,11 @@
+.Todo-item {
+    text-align: justify;
+    padding: 4px;
+    height: 2em;
+    border: 1px black solid;
+    border-radius: 8px;
+}
+
+.Todo-item input[type=checkbox] {
+    margin-right: 20px;
+}
